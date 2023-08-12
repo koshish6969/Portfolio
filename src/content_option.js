@@ -8,7 +8,7 @@ const meta = {
 const introdata = {
     title: "I’m Koshish Shrestha",
     animated: {
-        first: "I am an Computer Engineering Student.",
+        first: "I am a Computer Engineering Student.",
         second: "I love coding.",
         third:"I love making videos." ,
     },
