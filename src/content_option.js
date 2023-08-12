@@ -82,9 +82,9 @@ const contactConfig = {
     YOUR_FONE: "+977-9863336676",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_zq0x673",
+    YOUR_TEMPLATE_ID: "template_nteqx9e",
+    YOUR_USER_ID: "Koc6xfM9IZldKiKUh",
 };
 
 const socialprofils = {
